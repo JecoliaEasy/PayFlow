@@ -1,0 +1,13 @@
+:root {
+  --pf-navy: #0f172a;
+  --pf-teal: #0d9488;
+  --pf-bleu: #0284c7;
+  --pf-gris: #64748b;
+}
+
+body {
+  margin: 0;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  color: var(--pf-navy);
+  background-color: #f8fafc;
+}
